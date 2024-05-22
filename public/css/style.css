@@ -243,3 +243,7 @@ ul.unordered-main li a:active {
     height: -2%;
     width: -2%;
 }
+
+.text{
+    color:red;
+}
